@@ -12,6 +12,12 @@ The project requires Python 3.6 or higher. You can download Python from [here](h
 
 ### Installing
 
+Download and unpack the .Zip file:
+
+```bash
+passkeys v#.#.Zip
+```
+
 Clone the GitHub repository:
 
 ```bash
