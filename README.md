@@ -1,4 +1,4 @@
-# Passkey: Passkey Generator and Validator (python version)
+# Passkey: Passkey Generator and Validator (Python version)
 
 This project involves two Python scripts `generate.py` and `validate.py` that generate and validate passkeys. The `generate.py` script generates a certain number of passkeys, while the `validate.py` script checks these passkeys against a list of used passkeys and validates them. These scripts are perfect for events like school elections or some other elections where 1 vote per participant is important. You can pair this with Google Forms and have Passkey as an input question to validate their vote afterwards. The script gives you files that you can mass print with a passkey, these papers can be given out to participants.
 
@@ -12,19 +12,7 @@ The project requires Python 3.6 or higher. You can download Python from [here](h
 
 ### Installing
 
-Download and unpack the .Zip file:
-
-```bash
-passkeys v#.#.Zip
-```
-
-OR
-
-Clone the GitHub repository:
-
-```bash
-git clone <repo-url>
-```
+Download the latest release on the release page and unpack the .zip file.
 
 Navigate to the project directory:
 
