@@ -12,7 +12,7 @@ The project requires Python 3.6 or higher. You can download Python from [here](h
 
 ### Installing
 
-Download the latest release on the release page and unpack the .zip file.
+Download the zip file in the latest release on the release page and unpack.
 
 Navigate to the project directory:
 
