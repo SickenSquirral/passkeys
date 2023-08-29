@@ -18,6 +18,8 @@ Download and unpack the .Zip file:
 passkeys v#.#.Zip
 ```
 
+OR
+
 Clone the GitHub repository:
 
 ```bash
